@@ -32,7 +32,7 @@ Novasy.introduce();
 [![trophy](https://github-profile-trophy.vercel.app/?username=davocan&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Discord 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/191906844199878656?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/1204253675837595679)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1204253675837595679?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/1204253675837595679)
 
 ## Social Media Accounts!
 
